@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Manrope:wght@200..800&display=swap');
+
+*{
+    font-family: "Bebas Neue","Manrope", sans-serif;
+
+}
+nav{
+    margin: 24px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+body{
+    background-color: #0A0A0A;
+    color: #FFFFFF;
+}
+.logoTitle{
+    font-size: 32px;
+    color: #C7C7C7;
+}
+ul{
+    display: flex;
+    
+}
+ul li{
+    list-style: none;
+    margin-right: 30px;
+}
+ul li a{
+    font-family: "Manrope";
+    text-decoration: none;
+    color: #C7C7C7;
+}
+.head{
+    display: flex;
+    align-items: center;
+    margin: 30px 100px 80px;
+}
