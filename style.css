@@ -33,7 +33,11 @@ ul li a{
     color: #C7C7C7;
 }
 .head{
-    display: flex;
+    display: flex
+    ;
     align-items: center;
     margin: 30px 100px 80px;
+}
+span{
+    font-size: xx-large;
 }
