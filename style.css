@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Manrope:wght@200..800&display=swap');
 
 *{
-    color: white;
+    /* color: white; */
     font-family: "Manrope";
 }
 body{
@@ -36,10 +36,40 @@ ul li a{
     align-items: center;
     justify-content: space-between;
 }
-h1{
+.mainHeading{
     font-family: "Bebas Neue"; 
     font-size: 101px;
+    margin-bottom: -20px;
+    color: white;
 }
 .ProPic{
     border-radius: 16px;
+}
+.discription{
+    color: #C7C7C7;
+    font-size: 18px;
+    font-family: "Manrope";
+}
+.primary{
+    background-color: #D3E97A;
+    color: #0A0A0A;
+    font-size: 16px;
+    font-weight: 700;
+    border-radius: 100px;
+    padding: 15px;
+}
+.iconSorateHobe{
+    margin-left: 15px;
+    /* color: #0A0A0A; */
+    
+}
+.iconOfLink{
+    padding: 15px;
+    /* color: azure; */
+    background-color: #222222;
+    border-radius: 100px;
+    color: #D3E97A;
+}
+.borohou{
+    
 }
