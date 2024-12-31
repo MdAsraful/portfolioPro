@@ -66,10 +66,21 @@ ul li a{
 .iconOfLink{
     padding: 15px;
     /* color: azure; */
+    text-align: center;
     background-color: #222222;
-    border-radius: 100px;
+    border-radius: 50%;
     color: #D3E97A;
+    margin-left: 15px;
 }
 .borohou{
-    
+    height: 25px;
+    width: 25px;
+
+}
+hr{
+    color: #484848; 
+}
+.project{
+    height: 600px;
+    width: 600px;
 }
